@@ -25,4 +25,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img width="75" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" alt=HTML5""> <img width="75" src="https://media.badgr.com/uploads/badges/issuer_badgeclass_73df4ddb-49b9-4e53-8e0c-e0adfbab3a02.png" alt="CSS3"> <img width="75" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code"> </p>
+<h3 align="left">Certificates(click to go to my SoloLearn account</h3>
+<p align="left"><a href="https://www.sololearn.com/profile/23186630" target="_blank"><img src="https://thumbs2.imgbox.com/2e/31/7a9uOlyc_t.jpg" alt="image host"/></a><a href="https://www.sololearn.com/profile/23186630" target="_blank"><img src="https://thumbs2.imgbox.com/7f/46/s5gbeqM6_t.jpg" alt="image host"/></a><a href="https://www.sololearn.com/profile/23186630" target="_blank"><img src="https://thumbs2.imgbox.com/71/4c/cHFOuoVr_t.jpg" alt="image host"/></a><a href="https://https://www.sololearn.com/profile/23186630" target="_blank"><img src="https://thumbs2.imgbox.com/d4/49/ZEVfM2bj_t.jpg" alt="image host"/></a><a href="https://www.sololearn.com/profile/23186630" target="_blank"><img src="https://thumbs2.imgbox.com/c0/33/ZzWKjVa0_t.jpg" alt="image host"/></a></p>
 
