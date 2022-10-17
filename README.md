@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Hunt</h1>
 <h3 align="center">an aspiring and enthusiastic email developer!</h3>
 <img align="right" src="https://thumbs2.imgbox.com/0b/08/M73ZQmCz_t.gif" width="200"  height="200"alt="email gif"/>
-<h3 style="color:red">To preview my Emails go to </h3>
+<h3 style="color:red">To preview any of the E-mails i have uploaded to my repository go to </h3>
 <h2>https://htmlpreview.github.io </h2>
 <h4>find and click on the html file to view it in the repository</h2>
 <h3>Copy the website address and paste it into the html preview webpage</h3>
