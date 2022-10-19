@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **Html Emails and Landing Pages**
 
-- 🌱 I’m currently learning **MJML(Mailjet Markup Lanugauge), Javascript, Ruby**
+- 🌱 I’m currently learning **Python, Javascript, PHP**
 
 - 👯 I’m looking to collaborate on **HTML Emails, Landing Pages**
 
-- 🤝 I’m looking for help with **Html emails**
+- 🤝 I’m looking for help with **Javascript, Python**
 
 - 📝 I regularly write articles on [N/A](N/A)
 
