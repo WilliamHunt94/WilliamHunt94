@@ -12,15 +12,15 @@
 
 - 🔭 I’m currently working on **Html Emails and Landing Pages**
 
-- 🌱 I’m currently learning **Python, Javascript, PHP**
+- 🌱 I’m currently learning **Python and AmpScript**
 
 - 👯 I’m looking to collaborate on **HTML Emails, Landing Pages**
 
-- 🤝 I’m looking for help with **Javascript, Python**
+- 🤝 I’m looking for help with **AmpScript, Python**
 
-- 📝 I regularly write articles on [N/A](N/A)
+- 📝 I regularly read articles on **Email On Acid Blog**
 
-- 💬 Ask me about **HTML, CSS, CSS3**
+- 💬 Ask me about **HTML, CSS,**
 
 - 📫 How to reach me **WilliamHunt91694@gmail.com**
 
